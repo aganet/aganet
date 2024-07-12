@@ -1,4 +1,4 @@
-# Hi there, I'm George Anestopoulos! 👋
+# Hi, I'm George Anestopoulos! 👋
 
 Welcome to my GitHub profile!
 
