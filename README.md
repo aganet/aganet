@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I am a DevOps Engineer with a passion for automating and optimizing processes. My expertise lies in building and managing CI/CD pipelines, cloud infrastructure, and monitoring systems. I enjoy working with the latest technologies and continually improving my skill set.
+I am a DevOps Engineer with a passion for automating and optimizing processes. My expertise lies in building and managing CI/CD pipelines, cloud infrastructure, and on-premises systems. I enjoy working with the latest technologies and continually improving my skill set through hands-on experience and ongoing learning.
 
 ## Skills and Technologies
 
