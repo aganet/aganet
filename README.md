@@ -22,19 +22,6 @@ I am a DevOps Engineer with a passion for automating and optimizing processes. M
 - Email: [george@ganesto.com](mailto:george@ganesto.com)
 - Personal Website: [ganesto.com](https://ganesto.com.com)
 
-## Stats
-
-![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-Thank you for visiting my profile!
-
 <!--
 **aganet/aganet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
