@@ -10,7 +10,7 @@ I am a DevOps Engineer with a passion for automating and optimizing processes. M
 ## Contact Me
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aganet)
-- Email: [george@ganesto.com](mailto:george@ganesto.com)
+- Email: [george@ganesto.com](mailto:github@ganesto.com)
 - Personal Website: [ganesto.com](https://ganesto.com)
 
 <!--
