@@ -20,7 +20,7 @@ I am a DevOps Engineer with a passion for automating and optimizing processes. M
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aganet)
 - Email: [george@ganesto.com](mailto:george@ganesto.com)
-- Personal Website: [ganesto.com](https://ganesto.com.com)
+- Personal Website: [ganesto.com](https://ganesto.com)
 
 <!--
 **aganet/aganet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
