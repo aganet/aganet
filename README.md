@@ -6,15 +6,6 @@ Welcome to my GitHub profile!
 
 I am a DevOps Engineer with a passion for automating and optimizing processes. My expertise lies in building and managing CI/CD pipelines, cloud infrastructure, and on-premises systems. I enjoy working with the latest technologies and continually improving my skill set through hands-on experience and ongoing learning.
 
-## Skills and Technologies
-
-- **Languages**: Bash, Python, Go, JavaScript
-- **CI/CD Tools**: Jenkins, GitHub Actions, GitLab CI, CircleCI
-- **Configuration Management**: Ansible, Chef, Puppet
-- **Containers & Orchestration**: Docker, Kubernetes, Helm, Kustomize, Cilium
-- **Cloud Providers**: AWS, Azure, Google Cloud Platform (GCP)
-- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack, LGTM Stack, Datadog, Newrelic
-- **Other Tools**: Terraform, Vault, Consul, keycloak
 
 ## Contact Me
 
