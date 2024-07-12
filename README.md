@@ -1,4 +1,3 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=4000&color=F7E700&random=false&width=435&lines=Welcome+to+my+github+page+" alt="Typing SVG" /></a>
 # Hi there, I'm George Anestopoulos! 👋
 
 Welcome to my GitHub profile!
@@ -12,25 +11,16 @@ I am a DevOps Engineer with a passion for automating and optimizing processes. M
 - **Languages**: Bash, Python, Go, JavaScript
 - **CI/CD Tools**: Jenkins, GitHub Actions, GitLab CI, CircleCI
 - **Configuration Management**: Ansible, Chef, Puppet
-- **Containers & Orchestration**: Docker, Kubernetes, Helm
+- **Containers & Orchestration**: Docker, Kubernetes, Helm, Kustomize, Cilium
 - **Cloud Providers**: AWS, Azure, Google Cloud Platform (GCP)
-- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
-- **Version Control**: Git, GitHub, GitLab
-- **Other Tools**: Terraform, Vault, Consul
-
-## Projects
-
-### [Project Name 1](https://github.com/yourusername/projectname1)
-A brief description of what the project does, the technologies used, and any other relevant information.
-
-### [Project Name 2](https://github.com/yourusername/projectname2)
-A brief description of what the project does, the technologies used, and any other relevant information.
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack, LGTM Stack, Datadog, Newrelic
+- **Other Tools**: Terraform, Vault, Consul, keycloak
 
 ## Contact Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- Personal Website: [yourwebsite.com](https://yourwebsite.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aganet)
+- Email: [george@ganesto.com](mailto:george@ganesto.com)
+- Personal Website: [ganesto.com](https://ganesto.com.com)
 
 ## Stats
 
