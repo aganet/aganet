@@ -27,3 +27,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<style>
+  .faded-img {
+    position: relative;
+    display: inline-block;
+  }
+
+  .faded-img img {
+    display: block;
+    width: 300px; /* Adjust as needed */
+    height: 300px; /* Adjust as needed */
+  }
+
+  .faded-img::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(transparent, white);
+    border-radius: 50%; /* Apply if you want a circular image */
+  }
+</style>
+
+<p align="center">
+  <span class="faded-img">
+    <img src="./netdata2.png" alt="Netdata">
+  </span>
+</p>
