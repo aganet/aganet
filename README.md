@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile!
 
+<p align="center">
+  <img src="./assets/netdata2.png" alt="Netdata" style="width: 800px; height: 400px;">
+</p>
+
 ## About Me
 
 I am a DevOps Engineer with a passion for automating and optimizing processes. My expertise lies in building and managing CI/CD pipelines, cloud infrastructure, and on-premises systems. I enjoy working with the latest technologies and continually improving my skill set through hands-on experience and ongoing learning.
@@ -29,6 +33,4 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">
-  <img src="./gradient-mask.svg" alt="Netdata" width="300" height="300">
-</p>
+
