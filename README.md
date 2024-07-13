@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="./netdata2.png" alt="Netdata" style="border-radius: 50%; width: 300px; height: 300px; background: linear-gradient(to bottom, transparent, white);">
+  <img src="./netdata2.png" alt="Netdata" style="border-radius: 50%; width: 800px; height: 400px; background: linear-gradient(to bottom, transparent, white);">
 </p>
 
