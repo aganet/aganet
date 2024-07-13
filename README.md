@@ -30,9 +30,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="./netdata2.png" alt="Netdata" style="border-radius: 50%; width: 800px; height: 400px; background: linear-gradient(to bottom, transparent, white);">
-</p>
-
-<p align="center">
-  <img src="./netdata2.png" alt="Netdata" width="300" height="300" style="mask-image: linear-gradient(to bottom, transparent, black); -webkit-mask-image: linear-gradient(to bottom, transparent, black);">
+  <img src="./gradient-mask.svg" alt="Netdata" width="300" height="300">
 </p>
