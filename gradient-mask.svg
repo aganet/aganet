@@ -3,10 +3,11 @@
     <mask id="mask" maskUnits="userSpaceOnUse" x="0" y="0" width="300" height="300">
       <linearGradient id="gradient" gradientTransform="rotate(90)">
         <stop offset="0%" stop-color="white" />
-        <stop offset="100%" stop-color="black" />
+        <stop offset="50%" stop-color="white" />
+        <stop offset="100%" stop-color="transparent" />
       </linearGradient>
       <rect x="0" y="0" width="300" height="300" fill="url(#gradient)" />
     </mask>
   </defs>
-  <image href="./netdata2.png" width="300" height="300" mask="url(#mask)" />
+  <image href="netdata2.png" x="0" y="0" width="300" height="300" mask="url(#mask)" />
 </svg>
