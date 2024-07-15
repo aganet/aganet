@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 <p align="center">
-  <img src="./assets/netdata2.png" alt="Netdata" style="width: 800px; height: 400px;">
+  <img src="./assets/devops.png" alt="Netdata" style="width: 800px; height: 400px;">
 </p>
 
 ## About Me
